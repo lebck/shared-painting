@@ -9,8 +9,14 @@ will see what you paint and you will see what they paint.
 # install npm dependencies
 npm install 
 
-# start server 
+# start node server 
 npm start
+
+# start webserver to serve index.html, i.e.:
+http-server
+
+# open address in mulitple browsers and start painting!
+
 ```
 
 Application is using ES6 and runs only in the latest browser versions! Tested in Chrome 71 and Safari 12
